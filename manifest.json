@@ -1,1 +1,32 @@
+{
+  "id": "/compras-de-supermercado/",
+  "name": "Lista de Supermercado",
+  "short_name": "Lista",
+  "description": "Aplicação para acompanhar uma lista de compras para supermercados.",
+  "lang": "pt-BR",
+  "start_url": "/compras-de-supermercado./",
+  "scope": "/compras-de-supermercado/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#060b1a",
+  "background_color": "#060b1a",
+  "categories": [
+    "utilities",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
 
