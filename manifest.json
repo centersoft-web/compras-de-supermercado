@@ -4,7 +4,7 @@
   "short_name": "Lista",
   "description": "Aplicação para acompanhar uma lista de compras para supermercados.",
   "lang": "pt-BR",
-  "start_url": "/compras-de-supermercado./",
+  "start_url": "/compras-de-supermercado/",
   "scope": "/compras-de-supermercado/",
   "display": "standalone",
   "orientation": "any",
